@@ -1,0 +1,102 @@
+{
+  "common": {
+    "diet": [
+      "Fill half the plate with non-starchy vegetables: leafy greens, beans, cabbage, tomato and gourds.",
+      "Choose whole grains (whole-wheat roti, oats, millets, brown rice) and keep rice and roti portions moderate.",
+      "Add a protein at each meal: dal, chana, rajma, fish, eggs, paneer or lean chicken.",
+      "Limit sugary drinks, sweets, fried snacks and packaged foods; choose whole fruit instead of juice when you want something sweet.",
+      "Use less salt, avoid tobacco, and keep alcohol very limited or avoid it.",
+      "Eat at regular times, do not skip meals, and follow the plan from your diabetes care team."
+    ],
+    "red_flags": [
+      "Sudden loss or sharp drop in vision.",
+      "A sudden shower of new floaters or flashes of light.",
+      "A dark curtain or shadow moving across your vision.",
+      "Eye pain, redness, or swelling.",
+      "Vision that becomes blurred or distorted quickly."
+    ],
+    "high_blood_sugar": [
+      "Check your blood sugar more often and write down each reading with the time and what you ate.",
+      "Drink water and avoid sugary drinks, sweets, fruit juice and refined carbohydrates.",
+      "Take your diabetes medicines exactly as prescribed. Do not change or stop a dose on your own.",
+      "If readings stay high, or you feel very thirsty, pass a lot of urine, vomit, breathe fast, or feel drowsy or confused, contact a doctor or go to urgent care today.",
+      "Bring your sugar log and medicine list to your appointment."
+    ],
+    "high_blood_pressure": [
+      "Check your blood pressure at home if you have a monitor. Rest for 5 minutes and record two readings.",
+      "Reduce salt and packaged foods, avoid tobacco, and limit alcohol.",
+      "Take blood-pressure medicines exactly as prescribed. Do not stop them on your own.",
+      "If your reading is 180/120 or higher, or you have chest pain, breathlessness, a severe headache or a sudden vision change, seek urgent medical care.",
+      "Bring your blood-pressure log and medicine list to your appointment."
+    ],
+    "reports_to_bring": [
+      "Recent HbA1c report, ideally from the last 3 months.",
+      "Home blood-sugar readings for the last 1-2 weeks, with times and meals.",
+      "Home blood-pressure readings for the last 1-2 weeks.",
+      "Lipid (cholesterol) profile report.",
+      "Kidney function report: creatinine/eGFR and urine albumin-to-creatinine ratio.",
+      "A list of all current medicines, with doses and how often you take them.",
+      "Any previous eye examination reports, OCT scans or prescriptions.",
+      "Your ID, insurance details or referral letter, if you have one."
+    ]
+  },
+  "grades": {
+    "0": {
+      "follow_up": "A dilated eye exam once a year, or sooner if vision changes.",
+      "next_steps": [
+        "This screening found No DR (no diabetic retinopathy), but you must still consult a doctor to confirm the result and review your diabetes care.",
+        "Book a routine dilated eye exam within the next year.",
+        "Keep HbA1c, blood pressure and cholesterol in your target range.",
+        "Check your feet and kidneys too, as part of your yearly diabetes review.",
+        "Return sooner if you notice any change in vision."
+      ],
+      "consult_note": "No diabetic retinopathy was seen in this image. This is a screening result, not a diagnosis. You must still consult a doctor to confirm it and to review your diabetes care.",
+      "emphasis": "Keeping glucose, blood pressure and cholesterol in target now lowers the chance of retinopathy later."
+    },
+    "1": {
+      "follow_up": "Recheck in about 12 months, or sooner if vision changes.",
+      "next_steps": [
+        "Consult a doctor to confirm this screening result and plan follow-up.",
+        "Book a dilated eye exam in about 12 months.",
+        "Keep HbA1c, blood pressure and cholesterol in your target range.",
+        "Tell your diabetes care team about this screening result.",
+        "Return sooner if you notice any change in vision."
+      ],
+      "consult_note": "Mild changes were seen. Consult a doctor to confirm the result and plan your follow-up.",
+      "emphasis": "Tight glucose and blood-pressure control can slow or stop progression."
+    },
+    "2": {
+      "follow_up": "See an ophthalmologist within about 6 months.",
+      "next_steps": [
+        "Consult an ophthalmologist within about 6 months.",
+        "Ask whether you need an OCT scan to check for macular swelling (DME).",
+        "Keep HbA1c, blood pressure and cholesterol in your target range.",
+        "Return sooner if you notice any change in vision."
+      ],
+      "consult_note": "Moderate changes were seen. Consult an ophthalmologist within about 6 months to confirm the result and check for macular swelling.",
+      "emphasis": "Tighter glucose and blood-pressure control is important to slow progression; ask your eye doctor about macular swelling."
+    },
+    "3": {
+      "follow_up": "See an ophthalmologist within weeks, not months.",
+      "next_steps": [
+        "Consult an ophthalmologist within weeks.",
+        "Ask about treatment options such as laser or eye injections.",
+        "Keep HbA1c, blood pressure and cholesterol in your target range.",
+        "Do not wait for the next routine appointment if vision changes."
+      ],
+      "consult_note": "Severe changes were seen. Consult an ophthalmologist within weeks, not months.",
+      "emphasis": "Work with your doctor on tight glucose and blood-pressure control to support any eye treatment you are offered."
+    },
+    "4": {
+      "follow_up": "Urgent ophthalmology review; do not delay.",
+      "next_steps": [
+        "Seek an ophthalmologist review urgently, ideally within days.",
+        "Ask about treatment such as laser, eye injections or surgery.",
+        "Keep HbA1c, blood pressure and cholesterol in your target range.",
+        "Go to emergency eye care straight away if you have any red-flag symptom."
+      ],
+      "consult_note": "Proliferative changes were seen. Seek an urgent ophthalmologist review within days; do not delay.",
+      "emphasis": "Tight glucose and blood-pressure control supports eye treatment; do not delay the ophthalmology review."
+    }
+  }
+}

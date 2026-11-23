@@ -1,0 +1,101 @@
+{
+  "currency": "INR",
+  "as_of": "2026-11",
+  "source": "Quotes supplied by the project owner for ASG Eye Hospital and Renuka.",
+  "notes": [
+    "Each figure is the price for the unit shown: per eye for one injection package, or per session for PRP laser.",
+    "The figures do not include consultation, OCT scans, or follow-up visits.",
+    "PRP laser usually needs more than one session, so the per-session price is not the total treatment cost.",
+    "Prices are hospital quotes and can change; confirm the current price and what it includes before treatment.",
+    "Intravitreal anti-VEGF injections are given into the eye by a retina specialist to reduce abnormal blood-vessel growth and fluid leakage in diabetic retinopathy, macular oedema and macular degeneration.",
+    "Panretinal photocoagulation (PRP) is laser treatment for abnormal new blood vessels, usually in severe or proliferative retinopathy.",
+    "A treatment is only used if the ophthalmologist finds disease that needs it. This screening tool cannot confirm that."
+  ],
+  "treatments": [
+    {
+      "hospital": "ASG Eye Hospital",
+      "kind": "injection",
+      "name": "Eylea",
+      "active_ingredient": "aflibercept",
+      "unit": "one package, per eye",
+      "cost_inr": 39900,
+      "notes": "Intravitreal anti-VEGF injection given by a retina specialist."
+    },
+    {
+      "hospital": "ASG Eye Hospital",
+      "kind": "injection",
+      "name": "Accentrix",
+      "active_ingredient": "ranibizumab",
+      "unit": "one package, per eye",
+      "cost_inr": 29450,
+      "notes": "Intravitreal anti-VEGF injection given by a retina specialist."
+    },
+    {
+      "hospital": "Renuka",
+      "kind": "injection",
+      "name": "Accentrix",
+      "active_ingredient": "ranibizumab",
+      "unit": "one package, per eye",
+      "cost_inr": 27000,
+      "notes": "Intravitreal anti-VEGF injection given by a retina specialist."
+    },
+    {
+      "hospital": "Renuka",
+      "kind": "injection",
+      "name": "Anti-VEGF injection (brand not specified)",
+      "active_ingredient": null,
+      "unit": "one full dose, per eye",
+      "cost_inr": 13000,
+      "notes": "Same treatment class as the named anti-VEGF injections; the hospital did not give the brand name."
+    },
+    {
+      "hospital": "Renuka",
+      "kind": "injection",
+      "name": "Anti-VEGF injection (brand not specified)",
+      "active_ingredient": null,
+      "unit": "one half dose, per eye",
+      "cost_inr": 7000,
+      "notes": "Same treatment class as the named anti-VEGF injections; the hospital did not give the brand name."
+    },
+    {
+      "hospital": "ASG Eye Hospital",
+      "kind": "laser",
+      "name": "PRP laser (panretinal photocoagulation)",
+      "active_ingredient": null,
+      "unit": "one session",
+      "cost_inr": 4300,
+      "notes": "Laser session for abnormal new blood vessels; several sessions are usually needed."
+    },
+    {
+      "hospital": "Renuka",
+      "kind": "laser",
+      "name": "PRP laser (panretinal photocoagulation)",
+      "active_ingredient": null,
+      "unit": "one session for both eyes",
+      "cost_inr": 3000,
+      "notes": "Quoted as one session covering both eyes; several sessions are usually needed."
+    }
+  ],
+  "other_treatments": [
+    {
+      "name": "Focal or grid laser",
+      "purpose": "macular oedema",
+      "summary": "Targeted laser to leaking blood vessels away from the centre of the macula, used for localised swelling rather than the whole retina."
+    },
+    {
+      "name": "Intravitreal corticosteroid",
+      "purpose": "macular oedema that does not settle",
+      "summary": "A slow-release steroid implant or injection into the eye to reduce swelling. Your eye doctor will discuss the risks, including raised eye pressure and cataract."
+    },
+    {
+      "name": "Vitrectomy",
+      "purpose": "vitreous haemorrhage or retinal detachment",
+      "summary": "Surgery to remove blood or scar tissue from inside the eye when bleeding does not clear or the retina is being pulled away."
+    },
+    {
+      "name": "Control of glucose, blood pressure and cholesterol",
+      "purpose": "slowing progression at every grade",
+      "summary": "Keeping HbA1c, blood pressure and cholesterol in target supports every other treatment and lowers the chance of progression."
+    }
+  ]
+}

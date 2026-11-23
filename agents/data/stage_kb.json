@@ -1,0 +1,32 @@
+{
+  "0": {
+    "summary": "No signs of diabetic retinopathy were seen in this image.",
+    "follow_up": "A routine dilated eye exam once a year, or sooner if vision changes.",
+    "treatment": "No eye treatment is needed for retinopathy at this stage.",
+    "recovery": "Not applicable; the goal is prevention and yearly monitoring."
+  },
+  "1": {
+    "summary": "Mild non-proliferative diabetic retinopathy: small changes in the retinal blood vessels, usually without symptoms.",
+    "follow_up": "Recheck in about 12 months, or sooner if vision changes.",
+    "treatment": "Tight control of glucose, blood pressure and cholesterol; no eye procedure is usually needed yet.",
+    "recovery": "Vision is normally unaffected at this stage."
+  },
+  "2": {
+    "summary": "Moderate non-proliferative diabetic retinopathy: more noticeable damage to the retinal blood vessels.",
+    "follow_up": "Recheck in about 6 months, or sooner if vision changes.",
+    "treatment": "Risk-factor control plus an ophthalmologist review; some people need monitoring for macular swelling.",
+    "recovery": "Vision may still be normal; treatment aims to stop progression."
+  },
+  "3": {
+    "summary": "Severe non-proliferative diabetic retinopathy: extensive vessel damage and a high risk of progression.",
+    "follow_up": "See an ophthalmologist promptly, within weeks rather than months.",
+    "treatment": "An ophthalmologist may recommend laser treatment or injections, depending on findings.",
+    "recovery": "Recovery depends on treatment and on how quickly it starts."
+  },
+  "4": {
+    "summary": "Proliferative diabetic retinopathy: new, fragile blood vessels can bleed or pull on the retina.",
+    "follow_up": "Urgent ophthalmology review; do not delay.",
+    "treatment": "Usually laser treatment, injections, or surgery in selected cases.",
+    "recovery": "Vision can be preserved or improved, but delays can cause permanent loss."
+  }
+}
